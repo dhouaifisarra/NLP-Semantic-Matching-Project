@@ -1,0 +1,61 @@
+id,equipment_name,category,clean_name
+1,Bosch Electric Screwdriver,Power Tools,bosch electric screwdriver
+2,Bosch Industrial Screwdriver,Power Tools,bosch industrial screwdriver
+3,Bosch Cordless Drill 18V,Power Tools,bosch cordless drill 18v
+4,Bosch Impact Driver,Power Tools,bosch impact driver
+5,Makita Cordless Drill,Power Tools,makita cordless drill
+6,Makita Industrial Drill Machine,Power Tools,makita industrial drill machine
+7,Makita Electric Screwdriver,Power Tools,makita electric screwdriver
+8,DeWalt Impact Driver XR,Power Tools,dewalt impact driver xr
+9,DeWalt Cordless Drill,Power Tools,dewalt cordless drill
+10,DeWalt Electric Screwdriver,Power Tools,dewalt electric screwdriver
+11,Industrial Torque Wrench,Hand Tools,industrial torque wrench
+12,Hydraulic Torque Wrench,Hand Tools,hydraulic torque wrench
+13,Manual Torque Wrench,Hand Tools,manual torque wrench
+14,Industrial Hammer,Hand Tools,industrial hammer
+15,Heavy Duty Steel Hammer,Hand Tools,heavy duty steel hammer
+16,Industrial Angle Grinder,Power Tools,industrial angle grinder
+17,Bosch Angle Grinder 125mm,Power Tools,bosch angle grinder 125mm
+18,Makita Angle Grinder Industrial,Power Tools,makita angle grinder industrial
+19,DeWalt Angle Grinder XR,Power Tools,dewalt angle grinder xr
+20,Electric Bench Grinder,Power Tools,electric bench grinder
+21,Industrial Welding Machine,Industrial Equipment,industrial welding machine
+22,Electric Arc Welding Machine,Industrial Equipment,electric arc welding machine
+23,MIG Welding Machine Industrial,Industrial Equipment,mig welding machine industrial
+24,TIG Welding Machine,Industrial Equipment,tig welding machine
+25,Plasma Cutting Machine,Industrial Equipment,plasma cutting machine
+26,Industrial Air Compressor,Industrial Equipment,industrial air compressor
+27,Portable Air Compressor,Industrial Equipment,portable air compressor
+28,High Pressure Air Compressor,Industrial Equipment,high pressure air compressor
+29,Industrial Vacuum Cleaner,Industrial Equipment,industrial vacuum cleaner
+30,Heavy Duty Industrial Vacuum Cleaner,Industrial Equipment,heavy duty industrial vacuum cleaner
+31,Electric Circular Saw,Power Tools,electric circular saw
+32,Bosch Circular Saw Industrial,Power Tools,bosch circular saw industrial
+33,Makita Circular Saw,Power Tools,makita circular saw
+34,DeWalt Circular Saw XR,Power Tools,dewalt circular saw xr
+35,Industrial Band Saw Machine,Industrial Equipment,industrial band saw machine
+36,Industrial Table Saw,Industrial Equipment,industrial table saw
+37,Electric Jigsaw Machine,Power Tools,electric jigsaw machine
+38,Bosch Professional Jigsaw,Power Tools,bosch professional jigsaw
+39,Makita Industrial Jigsaw,Power Tools,makita industrial jigsaw
+40,Industrial Electric Sander,Power Tools,industrial electric sander
+41,Belt Sander Industrial,Power Tools,belt sander industrial
+42,Orbital Sander Electric,Power Tools,orbital sander electric
+43,Industrial Heat Gun,Power Tools,industrial heat gun
+44,Electric Heat Gun Professional,Power Tools,electric heat gun professional
+45,Industrial Pressure Washer,Industrial Equipment,industrial pressure washer
+46,High Pressure Washer Electric,Industrial Equipment,high pressure washer electric
+47,Industrial Generator Diesel,Industrial Equipment,industrial generator diesel
+48,Portable Electric Generator,Industrial Equipment,portable electric generator
+49,Industrial Water Pump,Industrial Equipment,industrial water pump
+50,Electric Submersible Water Pump,Industrial Equipment,electric submersible water pump
+51,Industrial Safety Helmet,Safety Equipment,industrial safety helmet
+52,Industrial Protective Gloves,Safety Equipment,industrial protective gloves
+53,Safety Goggles Industrial,Safety Equipment,safety goggles industrial
+54,Industrial Ear Protection,Safety Equipment,industrial ear protection
+55,Industrial Safety Boots,Safety Equipment,industrial safety boots
+56,Industrial Ladder Aluminum,Industrial Equipment,industrial ladder aluminum
+57,Heavy Duty Industrial Ladder,Industrial Equipment,heavy duty industrial ladder
+58,Industrial Workbench Steel,Industrial Equipment,industrial workbench steel
+59,Industrial Tool Cabinet,Industrial Equipment,industrial tool cabinet
+60,Industrial Storage Rack,Industrial Equipment,industrial storage rack

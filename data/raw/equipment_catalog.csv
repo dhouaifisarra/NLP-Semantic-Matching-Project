@@ -1,0 +1,61 @@
+id,equipment_name,category
+1,Bosch Electric Screwdriver,Power Tools
+2,Bosch Industrial Screwdriver,Power Tools
+3,Bosch Cordless Drill 18V,Power Tools
+4,Bosch Impact Driver,Power Tools
+5,Makita Cordless Drill,Power Tools
+6,Makita Industrial Drill Machine,Power Tools
+7,Makita Electric Screwdriver,Power Tools
+8,DeWalt Impact Driver XR,Power Tools
+9,DeWalt Cordless Drill,Power Tools
+10,DeWalt Electric Screwdriver,Power Tools
+11,Industrial Torque Wrench,Hand Tools
+12,Hydraulic Torque Wrench,Hand Tools
+13,Manual Torque Wrench,Hand Tools
+14,Industrial Hammer,Hand Tools
+15,Heavy Duty Steel Hammer,Hand Tools
+16,Industrial Angle Grinder,Power Tools
+17,Bosch Angle Grinder 125mm,Power Tools
+18,Makita Angle Grinder Industrial,Power Tools
+19,DeWalt Angle Grinder XR,Power Tools
+20,Electric Bench Grinder,Power Tools
+21,Industrial Welding Machine,Industrial Equipment
+22,Electric Arc Welding Machine,Industrial Equipment
+23,MIG Welding Machine Industrial,Industrial Equipment
+24,TIG Welding Machine,Industrial Equipment
+25,Plasma Cutting Machine,Industrial Equipment
+26,Industrial Air Compressor,Industrial Equipment
+27,Portable Air Compressor,Industrial Equipment
+28,High Pressure Air Compressor,Industrial Equipment
+29,Industrial Vacuum Cleaner,Industrial Equipment
+30,Heavy Duty Industrial Vacuum Cleaner,Industrial Equipment
+31,Electric Circular Saw,Power Tools
+32,Bosch Circular Saw Industrial,Power Tools
+33,Makita Circular Saw,Power Tools
+34,DeWalt Circular Saw XR,Power Tools
+35,Industrial Band Saw Machine,Industrial Equipment
+36,Industrial Table Saw,Industrial Equipment
+37,Electric Jigsaw Machine,Power Tools
+38,Bosch Professional Jigsaw,Power Tools
+39,Makita Industrial Jigsaw,Power Tools
+40,Industrial Electric Sander,Power Tools
+41,Belt Sander Industrial,Power Tools
+42,Orbital Sander Electric,Power Tools
+43,Industrial Heat Gun,Power Tools
+44,Electric Heat Gun Professional,Power Tools
+45,Industrial Pressure Washer,Industrial Equipment
+46,High Pressure Washer Electric,Industrial Equipment
+47,Industrial Generator Diesel,Industrial Equipment
+48,Portable Electric Generator,Industrial Equipment
+49,Industrial Water Pump,Industrial Equipment
+50,Electric Submersible Water Pump,Industrial Equipment
+51,Industrial Safety Helmet,Safety Equipment
+52,Industrial Protective Gloves,Safety Equipment
+53,Safety Goggles Industrial,Safety Equipment
+54,Industrial Ear Protection,Safety Equipment
+55,Industrial Safety Boots,Safety Equipment
+56,Industrial Ladder Aluminum,Industrial Equipment
+57,Heavy Duty Industrial Ladder,Industrial Equipment
+58,Industrial Workbench Steel,Industrial Equipment
+59,Industrial Tool Cabinet,Industrial Equipment
+60,Industrial Storage Rack,Industrial Equipment

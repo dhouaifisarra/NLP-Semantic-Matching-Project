@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Equipment Matcher</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Equipment Matcher - Manual Review</h1>
+
+        <form method="post" class="search-form">
+            <label for="query">Query:</label>
+            <input type="text" id="query" name="query" value="{{ query }}" placeholder="Enter equipment name" required>
+
+            <label for="top_k">Top K:</label>
+            <input type="number" id="top_k" name="top_k" value="{{ top_k or 5 }}" min="1" max="20">
+
+            <button type="submit">Search</button>
+        </form>
+
+        {% if results %}
+        <div class="results">
+            <h2>Results for "{{ query }}"</h2>
+            <ul>
+            {% for r in results %}
+                <li class="result-item">
+                    <span class="equipment-name">{{ r.equipment_name }}</span>
+                    <span class="score">Score: {{ "%.3f"|format(r.score) }}</span>
+                    <span class="confidence">Confidence: {{ "%.3f"|format(r.confidence) }}</span>
+                    <form action="/feedback" method="post" class="feedback-form">
+                        <input type="hidden" name="query" value="{{ query }}">
+                        <input type="hidden" name="equipment_id" value="{{ r.id }}">
+                        <button type="submit" class="feedback-btn">Mark as correct</button>
+                    </form>
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
