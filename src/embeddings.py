@@ -28,3 +28,4 @@ def create_embeddings(input_csv: str, index_file: str):
 
 if __name__ == "__main__":
     create_embeddings("data/processed/equipment_clean.csv", "data/processed/faiss_index.idx")
+
